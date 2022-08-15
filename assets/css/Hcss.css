@@ -1,0 +1,29 @@
+body{
+    background: radial-gradient(50% 50% at 50% 50%, #514848 0%, #332E2E 100%);
+}
+section{
+    text-align: center;
+    align-items: center;
+}
+section img{
+    width: 412px;
+    margin-top: 45px;
+}
+h1{
+    display: inline-flex;
+}
+div{
+    text-align: center;
+}
+.first-last{
+    color: #EAE2E2;
+    
+}
+.hello{
+    
+    color: #A1C8E4;
+    font-family: 'PressStart2P';
+}
+.wordl{
+    color: #98EC70;
+}
